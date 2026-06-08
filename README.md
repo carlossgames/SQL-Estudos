@@ -1,5 +1,5 @@
 # SQL-Estudos
-Repositório criado para mostrar minha evolução em SQL e MySQL durante o curso de Análise de Dados da EBAC.
+Repositório criado para mostrar minha evolução em SQL e MySQL durante o curso de Análise de Dados.
 
 ## Conhecimentos praticados
 
