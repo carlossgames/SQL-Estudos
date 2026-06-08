@@ -17,6 +17,7 @@ Repositório criado para mostrar minha evolução em SQL e MySQL durante o curso
 - INSERT INTO
 - VALUES
 - DESC - SELEC * FROM - SHOW DATABASE
+- AND - OR - NOT
 - LIKE
 - LIMIT
 - OFFSET
